@@ -39,3 +39,4 @@ c:\Users\jw1043808\Desktop\Capstone\BlazaMud\MyApplication\obj\Debug\net8.0\refi
 c:\Users\jw1043808\Desktop\Capstone\BlazaMud\MyApplication\obj\Debug\net8.0\MyApplication.pdb
 c:\Users\jw1043808\Desktop\Capstone\BlazaMud\MyApplication\obj\Debug\net8.0\MyApplication.genruntimeconfig.cache
 c:\Users\jw1043808\Desktop\Capstone\BlazaMud\MyApplication\obj\Debug\net8.0\ref\MyApplication.dll
+c:\Users\jw1043808\Desktop\Capstone\BlazaMud\MyApplication\obj\Debug\net8.0\MyApplication.sourcelink.json
